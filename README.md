@@ -47,10 +47,8 @@ No installation required. Runs in any desktop or tablet browser.
 
 © 2026 Jennifer Coon. All rights reserved.
 
-Free for educational use by individual instructors under the terms of
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
-Commercial use of any kind requires prior written permission.
-See LICENSE file for details.
+Free for educational use by individual instructors. Commercial use of
+any kind requires prior written permission. See LICENSE file for details.
 
 ## Attribution
 
